@@ -14,3 +14,5 @@ This is a part of Praveen’s [Live Stream on YouTube](https://rb.gy/crr5ts).
 - Full Stack: [Building Community Classroom Dashboard Live Series - YouTube](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3aHpTGfz9ePAzJeB4aj6H5D)
 - [HackX | Find Your Hack | Scaler](https://www.scaler.com/event/hackx)
 - Emmet [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- Learn by Game: [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+- Learn by Game: [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/)
