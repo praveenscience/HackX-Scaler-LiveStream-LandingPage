@@ -13,3 +13,4 @@ This is a part of Praveen’s [Live Stream on YouTube](https://rb.gy/crr5ts).
 - CSS Basics: [Towards Skilldom - Full Stack Web Development - YouTube](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3bOGxuK932gbKKQ_azizqnF)
 - Full Stack: [Building Community Classroom Dashboard Live Series - YouTube](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3aHpTGfz9ePAzJeB4aj6H5D)
 - [HackX | Find Your Hack | Scaler](https://www.scaler.com/event/hackx)
+- Emmet [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
